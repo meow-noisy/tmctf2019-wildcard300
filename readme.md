@@ -11,9 +11,9 @@
 
 ## how to run
 1. make dataset
-  1. `notebook/make_data.ipynb`
+    - `notebook/make_data.ipynb`
 1. train model
-  1. `notebook/tmctf_wildcatd_300_train_model.ipynb`
+    - `notebook/tmctf_wildcatd_300_train_model.ipynb`
 1. find frame with a model
-  1. `notebook/eval_frames.ipynb`
+    - `notebook/eval_frames.ipynb`
 1. human check
